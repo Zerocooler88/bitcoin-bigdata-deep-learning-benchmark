@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "A reproducible Big Data benchmark for Bitcoin price forecasting using deep learning models and a persistence baseline"
+type: software
+version: 1.0.0
+
+authors:
+  - family-names: "Logacho Torres"
+    given-names: "Juan Andrés"
+    affiliation: "Universidad Tecnológica Israel"
+
+repository-code: "https://github.com/Zerocooler88/bitcoin-bigdata-deep-learning-benchmark"
+
+keywords:
+  - Bitcoin
+  - BTCUSDT
+  - Big Data
+  - deep learning
+  - financial forecasting
+  - LSTM
+  - GRU
+  - CNN-1D
+  - CNN-LSTM
+  - persistence baseline
+  - reproducibility
+  - Apache Spark
+  - MinIO
+  - PyTorch
